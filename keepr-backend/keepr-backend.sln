@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "keepr.web", "keepr.web\keepr.web.csproj", "{D5D5C455-5AB5-4299-89AB-0AD9A4C548C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keepr.Data", "Keepr.Data\Keepr.Data.csproj", "{86EC818F-26AD-41D7-97A1-A1BC59CB41D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5D5C455-5AB5-4299-89AB-0AD9A4C548C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D5C455-5AB5-4299-89AB-0AD9A4C548C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D5C455-5AB5-4299-89AB-0AD9A4C548C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D5C455-5AB5-4299-89AB-0AD9A4C548C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86EC818F-26AD-41D7-97A1-A1BC59CB41D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EC818F-26AD-41D7-97A1-A1BC59CB41D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EC818F-26AD-41D7-97A1-A1BC59CB41D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EC818F-26AD-41D7-97A1-A1BC59CB41D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {217AF0D9-F718-4919-81A7-887F27A14B44}
+	EndGlobalSection
+EndGlobal
